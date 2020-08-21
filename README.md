@@ -1,3 +1,1 @@
-# BCMarketplace
-# bcpricebot
 # bcmarketplace
